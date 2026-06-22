@@ -1,0 +1,22 @@
+# Local Environment Configurations
+.env
+.env.local
+.env.development.local
+
+# Python dependency and virtual environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.conda/
+
+# Anaconda environment folders
+Nexa/
+
+# System Files
+.DS_Store
+Thumbs.db
